@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq|pr|lpr
+sort|uniq -u
