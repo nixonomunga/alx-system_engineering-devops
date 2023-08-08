@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello echo $(whoami)
+echo $(Hello whoami)
